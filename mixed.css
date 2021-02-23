@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, sans-serif;
+  background-color: darkslategrey;
+}
+
+h1 {
+  text-align: center;
+  color: floralwhite;
+  margin: auto;
+  background-color: gray;
+  padding-bottom: 50px;
+}
+
+header {
+  padding-left: 120px;
+  padding-top: 40px;
+  margin: 0;
+  background-color: gray;
+  float: none;
+  position: inherit;
+}
+h3 {
+  text-align: center;
+  color: floralwhite;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#button {
+  margin-top: 1%;
+  margin-left: 46.5%;
+  position: center;
+  top: 50%;
+}
