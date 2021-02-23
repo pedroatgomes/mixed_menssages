@@ -1,3 +1,3 @@
 # Mixed Menssages
 
-###This Codecademy JavaScript portfolio that generates randomly meals.
+### This Codecademy JavaScript portfolio that generates randomly meals.
