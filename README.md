@@ -1,8 +1,8 @@
-# Mixed Menssages
+# Responsive Club Website
 
-### This Codecademy JavaScript portfolio that generates randomly meals based in three different pieces of data.
+### This Codecademy project in this project, I’ll be building your own club group page that will dynamically respond as you adjust the size of your screen!​
 
 It was made using:
 * VScode
-* Node Js
-* Command line 
+* HTML
+* CSS
